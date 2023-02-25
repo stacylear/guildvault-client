@@ -1,7 +1,7 @@
 import { useContext, useEffect } from "react";
 import { authContext } from "../context/AuthContext/AuthContext";
 import AccountList from "./AccountList";
-import AccountSummary from "./AccountSummary";
+//import AccountSummary from "./AccountSummary";
 
 const AccountDashboard = () => {
   const { fetchProfileAction, profile, error } = useContext(authContext);
