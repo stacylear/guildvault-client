@@ -4,7 +4,9 @@ Guild Vault is a personal finance tool that allows users to set up accounts to t
 
 ## [Try it!](https://guildvault.netlify.app/)
 
-![guildvault1](https://user-images.githubusercontent.com/57073322/221374250-94b4497c-50ff-49f8-91f2-2e74b025d47e.png)
+<p align="left" width="100%">
+<img src="https://user-images.githubusercontent.com/57073322/221374250-94b4497c-50ff-49f8-91f2-2e74b025d47e.png" width=50% alt="Guild Vault Screenshot">
+</p>
 
 # Client
 
